@@ -1,0 +1,1 @@
+A simple and interactive to-do list web application built using HTML, CSS, and JavaScript. It allows users to add and manage tasks efficiently through a clean and user-friendly interface. This project focuses on practicing core front-end concepts such as DOM manipulation, event handling, and responsive design.
